@@ -8,11 +8,13 @@
 
 🛠️ Tecnologias e Ferramentas
 
-- 💻 HTML, CSS, JavaScript  
+- 💻 HTML, CSS, JavaScript, PHP, C#  
 - 🐍 Python (básico/intermediário)  
 - 🗄️ SQL / Banco de Dados  
 - 📊 Git e GitHub  
-- 🎨 Figma (design UI/UX)  
+- 🎨 Figma (design UI/UX)
+- 💼 Office 365
+- 🌐 Windows,Linux 
 
 ---
 
